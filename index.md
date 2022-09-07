@@ -22,3 +22,37 @@ Though I think you can also use <code>HTML</code> too?
 _Inspectocat_ using the Developer Tools to find out why Lab 2 wasn't loading properly.
 
 ![nyantocat singing a tune](https://octodex.github.com/images/nyantocat.gif)
+
+## Code
+
+### Python
+
+```python
+
+import random
+
+greetings = (
+    'Hello',
+    'Hello World',
+    'こんにちは',
+    'おはよう',
+)
+
+print(random.choice(greetings))
+
+```
+
+### C++
+
+```cpp
+
+#include <iostream>
+int main(int argc, char** argv)
+{
+    for (int i = 0; i < argc; ++i) {
+        std::cerr << argv[i] << ((i + 1 < argc) ? " " : "\n");
+    }
+    return 0;
+}
+
+```
