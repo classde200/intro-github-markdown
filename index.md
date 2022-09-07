@@ -6,6 +6,14 @@ Though I think you can also use <code>HTML</code> too?
 
 *Yup, you sure can...*
 
+## TODO
+
+- [x] Do homework
+- [x] Do homework
+- [ ] Do homework
+- [ ] Do homework
+- [x] Write *even more* Markdown documents!
+
 ## Tables
 
 | Features                                       | Comment     |
