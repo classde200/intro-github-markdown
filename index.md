@@ -14,3 +14,11 @@ Though I think you can also use <code>HTML</code> too?
 | Italics with `_` and single `*`                | Indeed      |
 | Tables                                         | You Betcha  |
 | Inline monospace with backticks <code>`</code> | `Yup`       |
+
+## Images
+
+![Inspectocat](https://octodex.github.com/images/inspectocat.jpg)
+
+_Inspectocat_ using the Developer Tools to find out why Lab 2 wasn't loading properly.
+
+![nyantocat singing a tune](https://octodex.github.com/images/nyantocat.gif)
